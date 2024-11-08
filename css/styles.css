@@ -27,11 +27,17 @@ body {
     text-transform: uppercase
 }
 
+.surfing:hover,
+.surfing:focus{
+    color: #404bbf;
+}
+
 .surfing {
+    color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-decoration: none;
 }
 
@@ -43,10 +49,11 @@ li {
 }
 
 .adress {
-    font-style: italic;
+    font-style: normal;
 }
 
-.adr1:hover {
+.adr1:hover,
+.adr1:focus {
     color: #404bbf;
 }
 
@@ -64,42 +71,57 @@ li {
     background-color: #2E2F42;
 }
 
-.title h1 {
+.one-title {
     font-size: 56px;
-    line-height: 60px;
-    letter-spacing: 2%;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
     color: white;
 }
 
-.title button {
-    background-color: #4D5AE5;
+.onebut:hover,
+.onebut:focus {
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
-.title button .button {
+.onebut {
+    background-color: #4D5AE5;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 4%;
-    color: white;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
     font-size: 16px;
 }
 
-.services h3 {
+
+.threa-title {
+    font-weight: 500;
     font-size: 20px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
-.services p {
+.pgrf {
     color: #434455;
     line-height: 24px;
     font-weight: 400;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     font-size: 16px;
 }
 
 .ourteam {
     background-color: #F4F4FD;
+}
+
+.two-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .images h3 {
@@ -119,21 +141,23 @@ li {
     font-size: 16px;
 }
 
-.images li {
+.limg  {
     background-color: white;
 }
 
-.ourportimg h3 {
+.img-threa-title
+ {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
-.ourportimg p {
+.img-pgrf {
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
     font-size: 16px;
 }
