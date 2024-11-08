@@ -1,0 +1,158 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 16px;
+}
+
+.webstudio {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3;
+    text-decoration: none;
+
+
+}
+
+.web {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3%;
+    color: #4D5AE5;
+
+}
+
+.nav-bar a {
+
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+}
+
+ul,
+li {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-align: left;
+}
+
+.adress a {
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+    color: #434455;
+}
+
+.title {
+    background-color: #2E2F42;
+}
+
+.title h1 {
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: white;
+}
+
+.title button {
+    background-color: #4D5AE5;
+}
+
+.title button .button {
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 4%;
+    color: white;
+}
+
+.services h3 {
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.services p {
+    color: #434455;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 2%;
+}
+
+.ourteam {
+    background-color: #F4F4FD;
+}
+
+.images h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+
+.images p {
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #434455;
+}
+
+.images li {
+    background-color: white;
+}
+
+.ourportimg h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.ourportimg p {
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+footer {
+    background-color: #2E2F42;
+}
+
+.end .webstudioend {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3;
+    text-decoration: none;
+    color: white;
+
+}
+
+.end .webend {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3%;
+    color: #4D5AE5;
+
+}
+
+.end p {
+    
+font-family: Roboto;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 2%;
+color: #F4F4FD;
+}
