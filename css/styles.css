@@ -146,37 +146,64 @@ li {
     font-size: 16px;
 }
 
-footer {
+.two-title-port {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.threa-title-port {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.port-pgrf {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.foot {
     background-color: #2E2F42;
 }
 
-.end .webstudioend {
+.webstudioend {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 3;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-decoration: none;
     color: white;
-
+    text-transform: uppercase;
+    text-decoration: none;
 }
 
-.end .webend {
+.webend {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 3%;
     color: #4D5AE5;
+    text-transform: uppercase;
+    text-decoration: none;
 
 }
 
-.end p {
+.end-prgrf {
 
     font-family: Roboto;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02;
     color: #F4F4FD;
     font-size: 16px;
 }
