@@ -170,7 +170,7 @@ li {
     color: #434455;
 }
 
-.end {
+.foot {
     background-color: #2E2F42;
 }
 
@@ -186,24 +186,24 @@ li {
     text-decoration: none;
 }
 
- .end .webstudio {
-    font-family: "Raleway", sans-serif;
+.foot .ende .webstudio {
+    font-family: "Raleway", sans-serif; 
+    font-weight: 700; 
     font-size: 18px;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 3%;
-    color: #4D5AE5;
-    text-transform: uppercase;
-    text-decoration: none;
-
+    line-height: 1.17; 
+    letter-spacing: 0.03em; 
+    text-transform: uppercase; 
+    color: #4d5ae5; 
 }
+
+
 
 .end-prgrf {
 
     font-family: Roboto;
-    font-weight: 400;
+    
     line-height: 1.5;
     letter-spacing: 0.02;
     color: #F4F4FD;
-    font-size: 16px;
+   
 }
