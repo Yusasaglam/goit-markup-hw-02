@@ -2,7 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    
+
 }
 
 .webstudio {
@@ -13,6 +13,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
+    text-transform: uppercase
 }
 
 .webstudio .web {
@@ -24,30 +25,69 @@ body {
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase
-    
 }
 
-.navbar a {
-
+.navbar .studio {
+    font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 2%;
     text-decoration: none;
 }
 
+.navbar .portfolio {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+}
+
+.navbar .contacts {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+}
+
+
+
 ul,
 li {
-  
+
     list-style-type: none;
     text-align: left;
 }
 
-.adress a {
+.adress {
+    font-style: italic;
+}
+
+.adr1:hover {
+    color: #404bbf;
+}
+
+.adr2:hover {
+    color: #404bbf;
+}
+
+.adr1 {
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     text-decoration: none;
     color: #434455;
+    font-size: 16px;
+}
+
+.adr2 {
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #434455;
+    font-size: 16px;
 }
 
 .title {
@@ -154,11 +194,11 @@ footer {
 }
 
 .end p {
-    
-font-family: Roboto;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 2%;
-color: #F4F4FD;
-font-size: 16px;
+
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #F4F4FD;
+    font-size: 16px;
 }
