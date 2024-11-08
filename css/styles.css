@@ -170,11 +170,11 @@ li {
     color: #434455;
 }
 
-.foot {
+.end {
     background-color: #2E2F42;
 }
 
-.foot .end .web {
+ .end .web {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -186,7 +186,7 @@ li {
     text-decoration: none;
 }
 
-.foot .end .webstudio {
+ .end .webstudio {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
