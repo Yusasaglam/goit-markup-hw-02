@@ -166,7 +166,7 @@ li {
 .port-pgrf {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -174,29 +174,7 @@ li {
     background-color: #2E2F42;
 }
 
-.webstudioend {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-decoration: none;
-    color: white;
-    text-transform: uppercase;
-    text-decoration: none;
-}
 
-.webend {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 3%;
-    color: #4D5AE5;
-    text-transform: uppercase;
-    text-decoration: none;
-
-}
 
 .end-prgrf {
 
