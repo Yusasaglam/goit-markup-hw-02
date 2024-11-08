@@ -1,10 +1,22 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
     
 }
 
 .webstudio {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+
+.webstudio .web {
+    color: #2E2F42;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -12,18 +24,7 @@ body {
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase
-
-}
-
-.web {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 3%;
-    color: #4d5ae5;
-    text-transform: uppercase
-
+    
 }
 
 .navbar a {
